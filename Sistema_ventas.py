@@ -1,5 +1,4 @@
 # Nombres: ALEXANDER CASAMACHIN GALEANO
-# DANIEL FERNANDO MONTAÑO
 
 import tkinter as tk
 from tkinter import messagebox
